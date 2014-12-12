@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Tyler Priest's Blog
-tagline:          'Adventuring'
+title:            My Artisanal Life
+tagline:          'Living an Artisanal Life '
 description:      ''
-url:              http://tylerpriest.com
+url:              http://myartisanallife.com
 baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'Tyler Priest'
-  url:            https://twitter.com/messiahtyler
+  name:           'Andrew Froug'
+  url:            https://twitter.com/andrewfroug
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/tylerpriest/tylerpriest.github.com
+  repo:           https://github.com/andrewfroug/andrewfroug.github.io
